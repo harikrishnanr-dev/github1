@@ -1,0 +1,6 @@
+open the folder then right click open with git bash
+
+git staus
+git add .
+git commit -m "initial commit style"
+git 
